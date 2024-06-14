@@ -1,0 +1,29 @@
+{
+    "_type": "https://in-toto.io/Statement/v1",
+    "predicateType": "https://github.com/project-oak/transparent-release/claim/v2",
+    "subject": [
+        {
+            "name": "oak_client_android_app",
+            "digest": {
+                "psha2": "02000089caa5fac63afcd6e642b9ca1d5d8b4b148f5ea801503b2633dd141e7b87e9628b9b6a",
+                "sha1": "f62ccafdc0a7a2d0c348f10ee8e2a74e8bb8a3f0",
+                "sha256": "55662964793d233af47299502a1315a07616ffe27ee805ae88c53e8909f7bb97",
+                "sha512": "98ede50e922bad6dae076e1179c1272b743a3e66ef39a883cc83ac8f88b33c65c81b2cfae9f2b1d41e8691aee4419804e762f720072c538f2f0fc6d1900187de",
+                "sha3_512": "4d271b3919d6473e3232a4f71c49bebf260e0aba1ec5a91f9022448b61878431c60ab594fca5eeaedbf4a0b049634436cc34980e989485a23c2d6bbde5a94f8b",
+                "sha3_384": "b29901c58d69869a4ce1651ebda2979e1d34fd8a979d24119d6fb9ec153ab7a4deb37ea1ae7c631d5b1c9f8e63961424",
+                "sha3_256": "901205edbccb530e0e38753035dc817aba68ebff63ec890c113262b767928e79",
+                "sha3_224": "e8503e23fab30b947408730fce38ed05c4695f053b76acaeff74e4b0",
+                "sha384": "88d5336578566a7f23c612f2ae5046c5b860202691609edb62d8310ac5e2270dbe18e8f64a800c8d6b5930053e6488de"
+            }
+        }
+    ],
+    "predicate": {
+        "claimType": "https://github.com/project-oak/transparent-release/endorsement/v2",
+        "usage": "normal",
+        "issuedOn": "2024-06-12T18:40:19.002000Z",
+        "validity": {
+            "notBefore": "2024-06-12T18:40:19.002000Z",
+            "notAfter": "2025-06-12T18:40:19.002000Z"
+        }
+    }
+}
